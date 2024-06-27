@@ -5,6 +5,8 @@
 ## Overview
 This project presents a comprehensive analysis and predictive modeling of the Titanic dataset. It includes data preprocessing to handle missing values, conversion of numerical values to categorical data, and visualizations to explore age distribution, embarkation ports, and survival rates. A logistic regression model is then developed to predict passenger survival based on their class and age, achieving performance metrics that are evaluated through accuracy scores, confusion matrices, and classification reports. This analysis provides valuable insights into the factors affecting survival on the Titanic and demonstrates a structured approach to data analysis and machine learning.
 
+Sample Dataset : https://www.kaggle.com/c/titanic/data
+
 
 ### 1. Data Preview and Pre-Processing:
 <img width="1431" alt="2 1" src="https://github.com/patkargaurang/PRODIGY_DS_01/assets/173181353/f2a181bb-999c-4198-bd1b-f16f8648a2d7">
